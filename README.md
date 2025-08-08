@@ -1,12 +1,23 @@
-# React + Vite
+# Trip_Ease
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Trip_Ease is a tourism-focused web application designed to help users easily discover and book tourist destinations in Odisha.  
+It offers detailed information, booking options, and user-friendly navigation.
 
-Currently, two official plugins are available:
+## Tech Stack
+- *Frontend:* React + Vite
+- *Backend:* Spring Boot (planned)
+- *Database:* MySQL (planned)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About the Setup
+This project uses the React + Vite template, providing a minimal setup with Hot Module Replacement (HMR) and ESLint rules.
 
-## Expanding the ESLint configuration
+Two official plugins are available:
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) (Babel-based)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) (SWC-based)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features (Planned)
+- Explore tourist spots across Odisha
+- Search and filter destinations
+- Booking system
+- User authentication
+- Mobile-friendly responsive UI
